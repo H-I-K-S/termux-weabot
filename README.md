@@ -1,6 +1,6 @@
 <p align="center"> 
   Waiting...<br>
-  <img src="https://profile-counter.glitch.me/PUDlDl-BOT/count.svg" />
+  <img src="https://profile-counter.glitch.me/H-I-K-S-termux-weabot/count.svg" />
 </p>
 
 <p align="center">
