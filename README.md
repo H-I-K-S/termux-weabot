@@ -5,7 +5,7 @@
 </p>
 
 <details>
- 
+ not
 </details>
 
 Ket: Aktiv 24 jam
