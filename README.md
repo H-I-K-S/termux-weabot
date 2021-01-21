@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
   <img src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat" />
   <img src="https://img.shields.io/github/repo-size/H-I-K-S/termux-weabot" /> <br>
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FH-I-K-S%2Ftermux-weabot?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FH-I-K-S%2Ftermux-weabot.svg?type=shield"/></a>
-  <a href="https://www.codefactor.io/repository/github/H-I-K-S/termux-weabot"><img src="https://www.codefactor.io/repository/github/H-I-K-S/termux-weabot/badge" /></a>
 </p>
 
 <p align="center">
