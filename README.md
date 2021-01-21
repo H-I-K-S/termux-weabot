@@ -5,10 +5,10 @@
 </p>
 
 <details>
- not
+Coming Soon..
 </details>
 
-Ket: Aktiv 24 jam
+Ket: In Progress...
 
 ---------
 ###### Get ApiKey?
