@@ -1,10 +1,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm HIKS
-<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
-</p>
-<br>
 
 <p align="center">
-<a href="https://github.com/ichi-lent"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MASLENT GANS-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DEV-HIKS"><img title="Author" src="https://img.shields.io/badge/DEV-HIKS-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
@@ -14,13 +11,6 @@
 </details>
 
 XXX 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
-
-XXX WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
-
-XX NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
-</div>
 
 XXX ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Siapin alat dan bahannya.
