@@ -20,7 +20,7 @@
 ##### Updates 10 ==> 11
 ---------
 ```bash
-npm i -g npm
+> npm i -g npm
 ```
 ---------
 
