@@ -1,0 +1,2 @@
+# termux-weabot
+psychic..
