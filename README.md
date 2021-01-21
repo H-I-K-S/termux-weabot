@@ -23,6 +23,6 @@ Coming Soon..
 ---------
 ###### Late
 
-| [adiwajhsing](https://github.com/adiwajshing) |
+| [@adiwajhsing](https://github.com/adiwajshing) |
 | :-: |
 ---------
